@@ -1,3 +1,3 @@
 require("./main.css");
-require("./main.sass");
+require("./main.scss");
 require("./index.html");
